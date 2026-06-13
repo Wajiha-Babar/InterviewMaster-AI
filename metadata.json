@@ -1,0 +1,6 @@
+{
+  "name": "InterviewMaster AI ULTRA",
+  "description": "The world's most advanced AI-powered interview preparation and simulation system with mock interviews, live coding, and smart CV parsing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
